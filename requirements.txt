@@ -2,4 +2,4 @@ pandas
 numpy
 python-telegram-bot==20.8
 requests
-TA-Lib==0.4.28
+https://github.com/naiba/TA-Lib-wheels/releases/download/v0.4.28/TA_Lib-0.4.28-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl

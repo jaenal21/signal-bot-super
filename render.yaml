@@ -7,3 +7,11 @@ services:
     buildCommand: pip install -r requirements.txt
     startCommand: python trading_signal_bot.py
     autoDeploy: true
+
+envVars:
+  TELEGRAM_TOKEN:
+    sync: false
+  CHAT_ID:
+    sync: false
+  TWELVE_DATA_API_KEY:
+    sync: false
